@@ -42,7 +42,7 @@ const Left = styled.div`
   @media only screen and (max-width: 1000px){
     justify-content: center;
     align-items: center;
-    background-color: pink;
+    /* background-color: pink; */
     height: 50vh;
     padding: 20px;
     /* flex: 4; */
@@ -58,7 +58,7 @@ const Right = styled.div`
     overflow: none;
     /* flex: 10; */
     margin-bottom: 20px;
-    background-color: blue;
+    /* background-color: blue; */
   }
 `;
 
