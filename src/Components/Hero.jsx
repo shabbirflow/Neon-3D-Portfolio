@@ -57,7 +57,7 @@ const Right = styled.div`
     height: 50vh;
     overflow: none;
     /* flex: 10; */
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     /* background-color: blue; */
   }
 `;

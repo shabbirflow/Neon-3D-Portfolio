@@ -56,7 +56,7 @@ const Right = styled.div`
   @media only screen and (max-width: 1000px){
     height: 60vh;
     width: 90vw;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
 `;
 
