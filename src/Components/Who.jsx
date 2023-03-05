@@ -52,6 +52,7 @@ const Right = styled.div`
     padding: 0;
     height: 60vh;
     justify-content: flex-start;
+    margin-bottom: 20px;
   }
 `;
 
