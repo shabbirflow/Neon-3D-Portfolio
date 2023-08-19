@@ -14,7 +14,7 @@ const Container = styled.div`
       display: none;
     }
     color: white;
-    background: url('/image/neonbackground2.png');
+    background: url('/image/grad2.jpg');
   `;
 
 const App = () => {
