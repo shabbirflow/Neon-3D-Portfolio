@@ -9,7 +9,7 @@ const ProblemSolving = () => {
       <OrbitControls enableZoom={false} autoRotate />
       <Stage environment={null}>
         <Environment
-          path="public/"
+          path="/"
           files="photo_studio_loft_hall_4k.hdr"
         ></Environment>
         <Earth />
